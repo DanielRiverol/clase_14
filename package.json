@@ -11,11 +11,12 @@
   "author": "Daniel Riverol",
   "license": "MIT",
   "type": "module",
-  "description": "Plantilla de servidor con capas ",
+  "description": "Plantilla de servidor con capas",
   "dependencies": {
     "dotenv": "^17.0.1",
     "express": "^5.1.0",
-    "firebase": "^11.10.0"
+    "firebase": "^11.10.0",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
